@@ -1,10 +1,6 @@
 # Análise de Sentimento Financeiro
 
-Este projeto realiza análise de sentimento em textos financeiros utilizando técnicas de Processamento de Linguagem Natural (NLP). O objetivo é classificar textos financeiros em três categorias: positivo, negativo e neutro, utilizando diferentes métodos de análise de sentimento.
-
-## Descrição
-
-O projeto utiliza um notebook Jupyter (`FinancialSentimentAnalise.ipynb`) que contém todo o processo de análise, desde o carregamento dos dados até a avaliação dos modelos. Foram implementados dois métodos principais de análise de sentimento: Naive Bayes e TextBlob.
+Este projeto realiza análise de sentimento em textos financeiros utilizando técnicas de Processamento de Linguagem Natural (NLP). O objetivo é classificar textos financeiros em três categorias: positivo, negativo e neutro, utilizando diferentes métodos de análise de sentimento.nForam implementados dois métodos principais de análise de sentimento: Naive Bayes e TextBlob.
 
 ## Objetivo
 
